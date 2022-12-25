@@ -47,5 +47,5 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/03xIJGiwg0OLEyOm4oXLVM?utm_source=generator
           plugin_music_time_range: short
-          plugin_music_top_type: tracks
+          plugin_music_top_type: top
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}"
