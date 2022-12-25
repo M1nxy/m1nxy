@@ -28,7 +28,6 @@ jobs:
           user: M1nxy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Europe/London
           plugin_activity: yes
           plugin_activity_days: 14
@@ -44,9 +43,9 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_music: yes
-          plugin_music_provider: spotify # Use Spotify as provider
-          plugin_music_mode: recent      # Set plugin mode
-          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_limit: 4
+          plugin_music_played_at: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/03xIJGiwg0OLEyOm4oXLVM?utm_source=generator
-          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}"
