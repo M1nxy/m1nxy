@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="590" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="732" class="">
   
 
   <defs><style>@font-face {
@@ -37,11 +37,11 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 12 Nov 2025, 23:20:07
+Last generated: 13 Nov 2025, 01:43:48
 </div>
 <div class="stdin"><span class="ps1-path">m1nxy@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>M1nxy</b> registered=5y, uid=4461, gid=2
   contributed to 0 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>18</b> users
+  followed by <b>17</b> users
 </div>
 <div class="stdin"><span class="ps1-path">m1nxy@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b>  133</b> commits
@@ -56,10 +56,18 @@ Last generated: 12 Nov 2025, 23:20:07
   <b>  154</b> repositories starred
   <b>   35</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">m1nxy@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">m1nxy@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#########           ] 42.44%
+<b>JAVASCRIPT  </b> [#####               ] 21.67%
+<b>RUST        </b> [###                 ] 11.57%
+<b>SVELTE      </b> [##                  ] 8.83 %
+<b>VUE         </b> [##                  ] 6.26 %
+<b>JAVA        </b> [#                   ] 3.14 %
+<b>CSS         </b> [#                   ] 3.12 %
+<b>PYTHON      </b> [#                   ] 2.97 %
+</div>
 
 
-<footer>Connection reset by 61.173.115.152</footer></pre>
+<footer>Connection reset by 218.54.186.147</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
